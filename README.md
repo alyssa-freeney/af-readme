@@ -1,6 +1,10 @@
-## 👏 Hi, I'm Alyssa Freeney
+## 👩🏽‍🦱 Hi, I'm Alyssa Freeney
 ##  About Me
-I am a freshman, my class is 003, I major in Cyber Cecurity, I am a To-Go Specialist at Texas Roadhouse, and I am an active cadet in AFROTC
+🐟 I am a freshman 
+👩🏽‍🎓 The class that I am in for this course is IS-1003-003
+👩🏽‍💻I major in Cyber Security
+🤠 I am a To-Go Specialist at Texas Roadhouse
+🎖️ I am an active cadet in AFROTC.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
